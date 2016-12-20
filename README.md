@@ -2,9 +2,9 @@
 Inicio: Promedio de tres numeros
 
 ##Ingreso Datos
-- num1 = 4
-- num2 = 6
-- num3 = 8
+- num1 
+- num2 
+- num3
 - suma
 - promedio
 
