@@ -5,7 +5,7 @@ Inicio: Promedio de tres numeros
 - num1 = 4
 - num2 = 6
 - num3 = 8
-- resultado
+- suma
 - promedio
 
 ##Proceso
@@ -17,3 +17,4 @@ Inicio: Promedio de tres numeros
 - Mostrar el promedio
 
 *FIN*
+https://www.hackerrank.com/tests/98eips7ek0o/questions/b7cjgnstjfg
