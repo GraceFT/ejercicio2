@@ -17,4 +17,3 @@ Inicio: Promedio de tres numeros
 - Mostrar el promedio
 
 *FIN*
-https://www.hackerrank.com/tests/98eips7ek0o/questions/b7cjgnstjfg
